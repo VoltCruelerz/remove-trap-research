@@ -1,22 +1,36 @@
 {
+    "files.associations": {
+        "*.unit*": "jsonc",
+        "*.entity*": "jsonc",
+        "*.ability": "jsonc",
+        "*.buff": "jsonc",
+        "*.player": "jsonc",
+        "*.weapon": "jsonc",
+        "*.gmr": "jsonc",
+        "*.gmu": "jsonc",
+        "*.gmc": "jsonc",
+        "*.action_data_source": "jsonc",
+        "*.research_subject": "jsonc",
+        "*.localized_text": "jsonc"
+    },
     "workbench.colorCustomizations": {
-        "activityBar.activeBackground": "#e5e56f",
-        "activityBar.background": "#e5e56f",
+        "activityBar.activeBackground": "#d5ce31",
+        "activityBar.background": "#d5ce31",
         "activityBar.foreground": "#15202b",
         "activityBar.inactiveForeground": "#15202b99",
-        "activityBarBadge.background": "#1da2a2",
+        "activityBarBadge.background": "#1b8480",
         "activityBarBadge.foreground": "#e7e7e7",
         "commandCenter.border": "#15202b99",
-        "sash.hoverBorder": "#e5e56f",
-        "statusBar.background": "#dddd44",
+        "sash.hoverBorder": "#d5ce31",
+        "statusBar.background": "#afa924",
         "statusBar.foreground": "#15202b",
-        "statusBarItem.hoverBackground": "#c9c925",
-        "statusBarItem.remoteBackground": "#dddd44",
+        "statusBarItem.hoverBackground": "#85801b",
+        "statusBarItem.remoteBackground": "#afa924",
         "statusBarItem.remoteForeground": "#15202b",
-        "titleBar.activeBackground": "#dddd44",
+        "titleBar.activeBackground": "#afa924",
         "titleBar.activeForeground": "#15202b",
-        "titleBar.inactiveBackground": "#dddd4499",
+        "titleBar.inactiveBackground": "#afa92499",
         "titleBar.inactiveForeground": "#15202b99"
     },
-    "peacock.color": "#dddd44"
+    "peacock.color": "#afa924"
 }
