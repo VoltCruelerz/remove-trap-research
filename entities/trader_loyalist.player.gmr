@@ -1,0 +1,17 @@
+{
+    "greed": {
+        "mutations": [
+            {
+                "type": "FILTER",
+                "path": "research.research_subjects[i]",
+                "condition": {
+                    "type": "NEQ",
+                    "params": [
+                        "$element_i",
+                        "trader_unlock_starbase_improve_weapon_item"
+                    ]
+                }
+            }
+        ]
+    }
+}

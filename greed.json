@@ -1,0 +1,11 @@
+{
+    "name": "Remove Trap Research",
+    "author": "Volt Cruelerz",
+    "url": "https://github.com/VoltCruelerz/remove-trap-research",
+    "description": "Removes trap research like Advanced Fire Control.",
+    "version": "1.0.0",
+    "sinsVersion": "1.16.7.0",
+    "greedVersion": "2.4.0",
+    "dependencies": [],
+    "conflicts": []
+}
